@@ -5162,6 +5162,7 @@
       "Blaster_Short_Coop": "Luna Blaster",
       "Blaster_Short_Msn": "Luna Blaster",
       "Blaster_Precision_00": "S-BLAST '92",
+      "Brush_Heavy_00": "Painbrush"
       "Brush_Mini_00": "Inkbrush",
       "Brush_Mini_01": "Inkbrush Nouveau",
       "Brush_Mini_Coop": "Inkbrush",
@@ -5169,7 +5170,7 @@
       "Brush_Normal_00": "Octobrush",
       "Brush_Normal_Coop": "Octobrush",
       "Brush_Normal_Msn": "Octobrush",
-      "Brush_RivalLv1_00": "",
+      "Brush_RivalLv1_00": "Brush_RivalLv1_00",
       "Brush_RivalLv2_00": "-",
       "Charger_Bear_Coop": "Grizzco Charger",
       "Charger_Keeper_00": "Goo Tuber",
