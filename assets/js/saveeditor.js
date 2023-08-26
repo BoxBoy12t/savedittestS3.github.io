@@ -395,7 +395,7 @@ function loadWeapons(){
     for(var i = 0; i < elements.length; i++){
         elements[i].onerror = function(event){
             var target = event.target;
-            target.src = "./assets/img/player/weapon/Dummy.png"; // No Icon
+            target.src = "https://raw.githubusercontent.com/BoxBoy12t/savedittestS3.github.io/main/assets/img/player/weapon/Dummy.png"; // No Icon
         };
     }
     resetObtainableItems("player_weapon");
