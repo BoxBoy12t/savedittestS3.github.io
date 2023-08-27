@@ -5296,6 +5296,9 @@
     "Shooter_MissionLv2_00": "Hero Shot Lv2",
     "Shooter_MissionLv3_00": "Hero Shot Lv3",
     "Shooter_Normal_00": "Splattershot",
+    "Shooter_Normal_00_AMB_1": "Splattershot (Splatoon 1)"
+    "Shooter_Normal_01_AMB_1": "Tentatek Splattershot (Splatoon 1)"
+    "Shooter_Normal_00_AMB_2": "Splattershot (Splatoon 2)"
     "Shooter_Normal_01": "Tentatek Splattershot",
     "Shooter_Normal_Coop": "Splattershot (Coop)",
     "Shooter_Normal_H": "Hero Shot Replica",
